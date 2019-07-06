@@ -1,0 +1,5 @@
+05-07-19 07:50:066 com.app.test.Test -main [INFO] info message 
+05-07-19 07:50:081 com.app.test.Test -main [WARN] warn message 
+05-07-19 07:50:081 com.app.test.Test -main [DEBUG] debug message 
+05-07-19 07:50:081 com.app.test.Test -main [ERROR] error message 
+05-07-19 07:50:081 com.app.test.Test -main [FATAL] fatal message 
